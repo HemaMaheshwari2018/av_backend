@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="642aab48-14d3-4658-b1cc-75703499cb5d" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_submit___joany_backend.coverage" NAME="submit research study submit_: joany_backend Coverage Results" MODIFIED="1524269841080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@test_carriers_get_carriers_based_on_zipcode_having_leading_space__joany_backend.coverage" NAME="test carriers get carriers based on zipcode having leading space: joany_backend Coverage Results" MODIFIED="1526604455413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_full_rs_123ccashful_outbrain__joany_backend.coverage" NAME="submit research study full rs 123ccashful outbrain: joany_backend Coverage Results" MODIFIED="1524687286702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_unqualified_reason_not_passed__joany_backend.coverage" NAME="submit research study unqualified reason not passed: joany_backend Coverage Results" MODIFIED="1524608747107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_email_is_null_rs_1__joany_backend.coverage" NAME="submit research study email is null_rs 1: joany_backend Coverage Results" MODIFIED="1524269966441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@test_carriers_get_carriers_based_on_zipcode_in_HI__joany_backend.coverage" NAME="test carriers get carriers based on zipcode in HI: joany_backend Coverage Results" MODIFIED="1526328486907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@test_create__gist_create_spec_rb___joany_backend.coverage" NAME="test create (gist_create_spec.rb): joany_backend Coverage Results" MODIFIED="1530828570769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@search_for_research_study_version_search_for_research_study_versionpenny_hoarder___joany_backend.coverage" NAME="search for research study version search for research study versionpenny hoarder-: joany_backend Coverage Results" MODIFIED="1524089381780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_full_rs_cashless_ib__joany_backend.coverage" NAME="submit research study full rs cashless ib: joany_backend Coverage Results" MODIFIED="1524710116923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_unqualified_reason_Medicaid_passed__joany_backend.coverage" NAME="submit research study unqualified reason Medicaid passed: joany_backend Coverage Results" MODIFIED="1525045984877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_research_study_id_doesnt_exist__joany_backend.coverage" NAME="submit research study research study id doesnt exist: joany_backend Coverage Results" MODIFIED="1524259129284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@test_carriers_get_carriers_based_on_zipcode_in_IN_state__joany_backend.coverage" NAME="test carriers get carriers based on zipcode in IN state: joany_backend Coverage Results" MODIFIED="1524073229837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_medicare__joany_backend.coverage" NAME="submit research study medicare: joany_backend Coverage Results" MODIFIED="1524767200202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@_submit___joany_backend.coverage" NAME=" submit_: joany_backend Coverage Results" MODIFIED="1524162111878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@test_carriers_get_carriers_based_on_zipcode_spans_between_2_cities__30582_is_a_zipcode_which_spans_across_Young_Harris_and_Union_city__joany_backend.coverage" NAME="test carriers get carriers based on zipcode spans between 2 cities -30582 is a zipcode which spans across Young Harris and Union city: joany_backend Coverage Results" MODIFIED="1524071966181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@email_email__joany_backend.coverage" NAME="email email: joany_backend Coverage Results" MODIFIED="1525286276526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@doc_request_update_doctor_request_id_with_hospital_data__joany_backend.coverage" NAME="doc request update doctor request id with hospital data: joany_backend Coverage Results" MODIFIED="1527804181745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_submit_rs_2__joany_backend.coverage" NAME="submit research study submit_rs_2: joany_backend Coverage Results" MODIFIED="1524269897472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/am_backend@create_gist_test_create__joany_backend.coverage" NAME="create gist test create: joany_backend Coverage Results" MODIFIED="1530833134623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@search_for_research_study_version_search_for_research_study_versionr_referral_code_equal_to_32___joany_backend.coverage" NAME="search for research study version search for research study versionr referral code equal to 32-: joany_backend Coverage Results" MODIFIED="1524089616579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_submit_premiun_with_comma_in_the_amount__joany_backend.coverage" NAME="submit research study submit premiun with comma in the amount: joany_backend Coverage Results" MODIFIED="1524260550083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@test_carriers_get_carriers_based_on_zipcode_in_Puerto_Rico__joany_backend.coverage" NAME="test carriers get carriers based on zipcode in Puerto Rico: joany_backend Coverage Results" MODIFIED="1524072498814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@test_carriers_get_carriers_based_on_zipcode_with_0_in_the_beginning__joany_backend.coverage" NAME="test carriers get carriers based on zipcode with 0 in the beginning: joany_backend Coverage Results" MODIFIED="1524072300374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_ref_token_af_4__joany_backend.coverage" NAME="submit research study ref token af_4: joany_backend Coverage Results" MODIFIED="1525292660501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/am_backend@create_gist_test_get_gist__joany_backend.coverage" NAME="create gist test get gist: joany_backend Coverage Results" MODIFIED="1530834926583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_submit_0_premium_in_the_amount__joany_backend.coverage" NAME="submit research study submit 0 premium in the amount: joany_backend Coverage Results" MODIFIED="1524261068983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@Run_spec__query_research_spec___joany_backend.coverage" NAME="Run spec 'query_research_spec': joany_backend Coverage Results" MODIFIED="1523391582797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_early_exit_rs_cashless_ib__joany_backend.coverage" NAME="submit research study early exit rs cashless ib: joany_backend Coverage Results" MODIFIED="1524709929958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@test_carriers_get_carriers_based_on_zipcode_in_AK__joany_backend.coverage" NAME="test carriers get carriers based on zipcode in AK: joany_backend Coverage Results" MODIFIED="1524072532308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_submit_bad_research_study_id__joany_backend.coverage" NAME="submit research study submit bad research study id: joany_backend Coverage Results" MODIFIED="1524267660406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@test_carriers_get_carriers_based_on_zipcode_is_less_than_5_digits__joany_backend.coverage" NAME="test carriers get carriers based on zipcode is less than 5 digits: joany_backend Coverage Results" MODIFIED="1524071696427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@test_carriers_get_carriers_based_on_zipcode_spans_between_2_county__97907_is_a_zipcode_which_spans_across_Baker_and_Malheur__joany_backend.coverage" NAME="test carriers get carriers based on zipcode spans between 2 county -97907 is a zipcode which spans across Baker and Malheur: joany_backend Coverage Results" MODIFIED="1524072072687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_research_study_2__joany_backend.coverage" NAME="submit research study research_study_2: joany_backend Coverage Results" MODIFIED="1524614217714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_64_digits_ref_token__joany_backend.coverage" NAME="submit research study 64 digits ref token: joany_backend Coverage Results" MODIFIED="1525286285452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_ref_token_af_1__joany_backend.coverage" NAME="submit research study ref token af_1: joany_backend Coverage Results" MODIFIED="1530580069163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_submit_validation_method_as_TEXT__joany_backend.coverage" NAME="submit research study submit validation method as TEXT: joany_backend Coverage Results" MODIFIED="1524262995164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@_search_for_research_study_version_ge___joany_backend.coverage" NAME=" search for research study version ge_: joany_backend Coverage Results" MODIFIED="1524010464186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_esign_rs__joany_backend.coverage" NAME="submit research study esign_rs: joany_backend Coverage Results" MODIFIED="1526328590398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@search_for_research_study_version_search_for_research_study_version_out_brain___joany_backend.coverage" NAME="search for research study version search for research study version out brain-: joany_backend Coverage Results" MODIFIED="1526614285620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_unqualified_reason_nil__joany_backend.coverage" NAME="submit research study unqualified reason nil: joany_backend Coverage Results" MODIFIED="1524593764561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@query_research_client.coverage" NAME="query_research_client Coverage Results" MODIFIED="1523406312750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/client" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_unqualified_reason_VA_Military_plan_plan__joany_backend.coverage" NAME="submit research study unqualified reason VA/Military plan plan: joany_backend Coverage Results" MODIFIED="1524269291899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@test_carriers_get_carriers_based_on_zipcode_in_Washington_DC__joany_backend.coverage" NAME="test carriers get carriers based on zipcode in Washington DC: joany_backend Coverage Results" MODIFIED="1524072910129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_submit_special_character_in_first_name__joany_backend.coverage" NAME="submit research study submit special character in first name: joany_backend Coverage Results" MODIFIED="1524261359771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@get_carriers.coverage" NAME="get_carriers Coverage Results" MODIFIED="1524016003439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@_dob__joany_backend.coverage" NAME=" dob: joany_backend Coverage Results" MODIFIED="1525454444036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_submit_no_meds__joany_backend.coverage" NAME="submit research study submit no meds: joany_backend Coverage Results" MODIFIED="1524262547116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@search_for_research_study_version_search_for_research_study_referral_token_equal_to_64___joany_backend.coverage" NAME="search for research study version search for research study referral token equal to 64-: joany_backend Coverage Results" MODIFIED="1526957197678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@test_carriers_get_carriers_based_on_zipcode_in_IN__joany_backend.coverage" NAME="test carriers get carriers based on zipcode in IN: joany_backend Coverage Results" MODIFIED="1524073413272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@test_carriers_get_carriers_based_on_zipcode_having_special_chars_like_space__joany_backend.coverage" NAME="test carriers get carriers based on zipcode having special chars like space: joany_backend Coverage Results" MODIFIED="1524072124133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_submit_premium_with_comma_in_the_amount__joany_backend.coverage" NAME="submit research study submit premium with comma in the amount: joany_backend Coverage Results" MODIFIED="1524260579425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_unqualified_reason_MEDICAID_plan__joany_backend.coverage" NAME="submit research study unqualified reason MEDICAID plan: joany_backend Coverage Results" MODIFIED="1524269979373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@search_for_research_study_version_search_for_research_study_version_ib___joany_backend__1_.coverage" NAME="search for research study version search for research study version ib_: joany_backend (1) Coverage Results" MODIFIED="1524159854791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_32_digits_ref_token__joany_backend.coverage" NAME="submit research study 32 digits ref token: joany_backend Coverage Results" MODIFIED="1524682146826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@search_for_research_study_version_search_for_research_study_version_ib___joany_backend.coverage" NAME="search for research study version search for research study version ib_: joany_backend Coverage Results" MODIFIED="1524860305713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@test_carriers_get_carriers_based_on_zipcode_is_more_than_5_digits__joany_backend.coverage" NAME="test carriers get carriers based on zipcode is more than 5 digits: joany_backend Coverage Results" MODIFIED="1524071679531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@search_for_research_study_version_search_for_research_study_version_penny_hoarder___joany_backend.coverage" NAME="search for research study version search for research study version penny hoarder-: joany_backend Coverage Results" MODIFIED="1524089473379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@test_carriers_get_carriers_based_on_zipcode_is_null__joany_backend.coverage" NAME="test carriers get carriers based on zipcode is null: joany_backend Coverage Results" MODIFIED="1524084913810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_unqualified_reason___joany_backend.coverage" NAME="submit research study unqualified reason : joany_backend Coverage Results" MODIFIED="1524268932211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@test_carriers_get_carriers_based_on_zipcode_having_trailing_space__joany_backend.coverage" NAME="test carriers get carriers based on zipcode having trailing space: joany_backend Coverage Results" MODIFIED="1524072181776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@Run_spec__get_carriers_spec___joany_backend.coverage" NAME="Run spec 'get_carriers_spec': joany_backend Coverage Results" MODIFIED="1526328473752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@_enail__joany_backend.coverage" NAME=" enail: joany_backend Coverage Results" MODIFIED="1524162148896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_medicaid__joany_backend.coverage" NAME="submit research study medicaid: joany_backend Coverage Results" MODIFIED="1526072733546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_submit_with_max_rating___joany_backend.coverage" NAME="submit research study submit with max rating_: joany_backend Coverage Results" MODIFIED="1524198254341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@test_carriers_get_carriers_based_on_zipcode_CA__joany_backend.coverage" NAME="test carriers get carriers based on zipcode CA: joany_backend Coverage Results" MODIFIED="1526328465295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_ref_token_af_1__joany_backend__1_.coverage" NAME="submit research study ref token af_1: joany_backend (1) Coverage Results" MODIFIED="1526587825321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@search_for_research_study_version_search_for_research_study_version_ge___joany_backend.coverage" NAME="search for research study version search for research study version ge_: joany_backend Coverage Results" MODIFIED="1525215750358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_ref_token_af___joany_backend.coverage" NAME="submit research study ref token af_: joany_backend Coverage Results" MODIFIED="1525284298524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_ref_token_32_digits__joany_backend.coverage" NAME="submit research study ref token 32 digits: joany_backend Coverage Results" MODIFIED="1525284062777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_full_rs_cashful_outbrain__joany_backend.coverage" NAME="submit research study full rs cashful outbrain: joany_backend Coverage Results" MODIFIED="1524687864021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@search_for_research_study_version_search_for_research_study_version_no_referral___joany_backend.coverage" NAME="search for research study version search for research study version no referral-: joany_backend Coverage Results" MODIFIED="1526049254959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/am_backend@create_gist_test_create_gist__joany_backend.coverage" NAME="create gist test create gist: joany_backend Coverage Results" MODIFIED="1530835972368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@search_for_research_study_version_search_for_research_study_versionr_referral_code_less_than_32___joany_backend.coverage" NAME="search for research study version search for research study versionr referral code less than 32-: joany_backend Coverage Results" MODIFIED="1524089503561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_unqualified_reason_A_Military_plan_plan__joany_backend.coverage" NAME="submit research study unqualified reason A/Military plan plan: joany_backend Coverage Results" MODIFIED="1524269177969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_full_rs_no_ref_token__joany_backend.coverage" NAME="submit research study full rs no ref token: joany_backend Coverage Results" MODIFIED="1524707972370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_dob__joany_backend.coverage" NAME="submit research study dob: joany_backend Coverage Results" MODIFIED="1526602353336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@search_for_research_study_version_search_for_research_study_referral_token___64___joany_backend.coverage" NAME="search for research study version search for research study referral token &gt; 64-: joany_backend Coverage Results" MODIFIED="1526614715415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_full_rs_cashful_fb__joany_backend.coverage" NAME="submit research study full rs cashful fb: joany_backend Coverage Results" MODIFIED="1524683458242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_referral_token___64__joany_backend.coverage" NAME="submit research study referral token &gt; 64: joany_backend Coverage Results" MODIFIED="1524635341521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_0_visits_to_doctor__joany_backend.coverage" NAME="submit research study 0 visits to doctor: joany_backend Coverage Results" MODIFIED="1525714673466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_submit_bad_zipcode__joany_backend.coverage" NAME="submit research study submit bad zipcode: joany_backend Coverage Results" MODIFIED="1524261168991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_no_rs__joany_backend.coverage" NAME="submit research study no rs: joany_backend Coverage Results" MODIFIED="1524268601486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_premium_in_decimal__joany_backend.coverage" NAME="submit research study premium in decimal: joany_backend Coverage Results" MODIFIED="1524693065225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_unqualified_reason_VA_Military_plan_with_rs_2__joany_backend.coverage" NAME="submit research study unqualified reason VA/Military plan with rs 2: joany_backend Coverage Results" MODIFIED="1524602121340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_email_is_null_rs_2__joany_backend.coverage" NAME="submit research study email is null_rs 2: joany_backend Coverage Results" MODIFIED="1524269955305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@test_carriers_get_carriers_based_on_zipcode_with_4_digit_extension__joany_backend.coverage" NAME="test carriers get carriers based on zipcode with 4 digit extension: joany_backend Coverage Results" MODIFIED="1526328493583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@test_carriers_get_carriers_based_on_zipcode_is_incorrect__joany_backend.coverage" NAME="test carriers get carriers based on zipcode is incorrect: joany_backend Coverage Results" MODIFIED="1526287124993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@search_for_research_study_version_search_for_research_study_versionr_referral_code_greater_than_32___joany_backend.coverage" NAME="search for research study version search for research study versionr referral code greater than 32-: joany_backend Coverage Results" MODIFIED="1524595452331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@_get_carriers_based_on_zipcode_in_IN_state__joany_backend.coverage" NAME=" get carriers based on zipcode in IN state: joany_backend Coverage Results" MODIFIED="1524073194131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@doc_request_create_doctor_request_id__joany_backend.coverage" NAME="doc request create doctor request id: joany_backend Coverage Results" MODIFIED="1527804114021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/am_backend@_test_delete_gist__joany_backend.coverage" NAME=" test delete gist: joany_backend Coverage Results" MODIFIED="1530834630212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_complete_rs__joany_backend.coverage" NAME="submit research study complete rs: joany_backend Coverage Results" MODIFIED="1524609101813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@create_doctor_request.coverage" NAME="create_doctor_request Coverage Results" MODIFIED="1526939017627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/am_backend@create_gist_test_delete_gist__joany_backend.coverage" NAME="create gist test delete gist: joany_backend Coverage Results" MODIFIED="1530835947409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@test_carriers_get_carriers_based_on_zipcode__joany_backend.coverage" NAME="test carriers get carriers based on zipcode: joany_backend Coverage Results" MODIFIED="1524070608258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@test_carriers_get_carriers_based_on_zipcode_spanning_scross_2_states__joany_backend.coverage" NAME="test carriers get carriers based on zipcode spanning scross 2 states: joany_backend Coverage Results" MODIFIED="1526328440554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@test_carriers__joany_backend.coverage" NAME="test carriers: joany_backend Coverage Results" MODIFIED="1524068640463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_blank_referral_token__joany_backend.coverage" NAME="submit research study blank referral token: joany_backend Coverage Results" MODIFIED="1524612531204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@email_email_with_special_character__joany_backend.coverage" NAME="email email with special character: joany_backend Coverage Results" MODIFIED="1526328507350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_submit_one_char_first_name__joany_backend.coverage" NAME="submit research study submit one char first name: joany_backend Coverage Results" MODIFIED="1524261890548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_Uppercase_Email__joany_backend.coverage" NAME="submit research study Uppercase Email: joany_backend Coverage Results" MODIFIED="1524612069086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_submit_rs_1__joany_backend.coverage" NAME="submit research study submit_rs_1: joany_backend Coverage Results" MODIFIED="1530579926157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@search_for_research_study_version_search_for_research_study_version__joany_backend.coverage" NAME="search for research study version search for research study version: joany_backend Coverage Results" MODIFIED="1523470263693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_submit_premium_in_the_amount__joany_backend.coverage" NAME="submit research study submit premium in the amount: joany_backend Coverage Results" MODIFIED="1524260998610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@email_no_email__joany_backend.coverage" NAME="email no email: joany_backend Coverage Results" MODIFIED="1524254947358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@submit_research_study_email_is_null__joany_backend.coverage" NAME="submit research study email is null: joany_backend Coverage Results" MODIFIED="1524259182062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+    <SUITE FILE_PATH="coverage/joany_backend@create_gist_test_create__joany_backend.coverage" NAME="create gist test create: joany_backend Coverage Results" MODIFIED="1530829472842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/specs" MODULE_NAME="joany_backend" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="gist_client.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/gist_client.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="365">
+              <caret line="58" column="50" lean-forward="false" selection-start-line="58" selection-start-column="50" selection-end-line="58" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gist_create_spec.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/specs/gist_create_spec.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="env.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/env.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Ruby Module Template" />
+        <option value="Ruby Class Template" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>carr</find>
+      <find>who is your health</find>
+      <find>Do you take any prescription medications</find>
+      <find>If you received a surprise bill, how did you resolve it?</find>
+      <find>esponse</find>
+      <find>MALE</find>
+      <find>SATISFACTION_RATING</find>
+      <find>TERM_HMO_PPO_EPO</find>
+      <find>TEXT</find>
+      <find>HAS</find>
+      <find>Indus</find>
+      <find>LESS_THANJ</find>
+      <find>spouse</find>
+      <find>SPOUSE</find>
+      <find>MEDICAID</find>
+      <find>Which of the follo</find>
+      <find>NEED_HELP_WITH</find>
+      <find>Carrier</find>
+      <find>carrier</find>
+      <find>Zipcode</find>
+      <find>Zip</find>
+      <find>zipcode</find>
+      <find>ZIP</find>
+      <find>Satisfaction</find>
+      <find>FIRST</find>
+      <find>FIRST_NAME</find>
+      <find>987947837798794387778978979879878998908908498329489230843839849898498800808098989098</find>
+      <find>Employer</find>
+      <find>title</find>
+      <find>version</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/config/yml_load.rb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/utils/generate_mac_signature.rb" />
+        <option value="$PROJECT_DIR$/specs/get_carriers.rb" />
+        <option value="$PROJECT_DIR$/expected-data/health_plans_CA" />
+        <option value="$PROJECT_DIR$/specs/submitResearchStudy.rb" />
+        <option value="$PROJECT_DIR$/client/research_study_lead_client.rb" />
+        <option value="$PROJECT_DIR$/specs/research_study_leads_spec.rb" />
+        <option value="$PROJECT_DIR$/specs/get_carriers_spec.rb" />
+        <option value="$PROJECT_DIR$/specs/esign_spec.rb" />
+        <option value="$PROJECT_DIR$/specs/authorize_respondent_spec.rb" />
+        <option value="$PROJECT_DIR$/specs/submit_research_study_1_spec.rb" />
+        <option value="$PROJECT_DIR$/specs/submit_research_study_spec.rb" />
+        <option value="$PROJECT_DIR$/specs/query_research_spec.rb" />
+        <option value="$PROJECT_DIR$/utils/generate_mac_signature_doc_reco.rb" />
+        <option value="$PROJECT_DIR$/specs/create_doctor_request.rb" />
+        <option value="$PROJECT_DIR$/client/doc_reco_research_client.rb" />
+        <option value="$PROJECT_DIR$/specs/create_doctor_request_spec.rb" />
+        <option value="$PROJECT_DIR$/client/coccierge_rest_client.rb" />
+        <option value="$PROJECT_DIR$/client/query_research_client.rb" />
+        <option value="$PROJECT_DIR$/config/env.yml" />
+        <option value="$PROJECT_DIR$/client/gist_client.rb" />
+        <option value="$PROJECT_DIR$/specs/gist_create_spec.rb" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="260" />
+    <option name="y" value="168" />
+    <option name="width" value="1680" />
+    <option name="height" value="944" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="am_backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="am_backend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="am_backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="am_backend" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="am_backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="am_backend" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="am_backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="am_backend" type="462c0819:PsiDirectoryNode" />
+              <item name="specs" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/specs" />
+      <recent name="$PROJECT_DIR$/utils" />
+      <recent name="$PROJECT_DIR$/client" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="RSpec.create gist test create gist: joany_backend">
+    <configuration name=" test delete gist: joany_backend" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="joany_backend" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/specs" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/specs/gist_create_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE=" test delete gist" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+    </configuration>
+    <configuration name="create gist test create gist: joany_backend" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="joany_backend" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/specs" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/specs/gist_create_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="create gist test create gist" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+    </configuration>
+    <configuration name="create gist test create: joany_backend" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="joany_backend" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/specs" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/specs/gist_create_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="create gist test create" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+    </configuration>
+    <configuration name="create gist test delete gist: joany_backend" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="joany_backend" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/specs" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/specs/gist_create_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="create gist test delete gist" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+    </configuration>
+    <configuration name="create gist test get gist: joany_backend" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="joany_backend" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/specs" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/specs/gist_create_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="create gist test get gist" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="RSpec.create gist test create: joany_backend" />
+      <item index="1" class="java.lang.String" itemvalue="RSpec.create gist test get gist: joany_backend" />
+      <item index="2" class="java.lang.String" itemvalue="RSpec.create gist test create gist: joany_backend" />
+      <item index="3" class="java.lang.String" itemvalue="RSpec. test delete gist: joany_backend" />
+      <item index="4" class="java.lang.String" itemvalue="RSpec.create gist test delete gist: joany_backend" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="RSpec.create gist test create gist: joany_backend" />
+        <item index="1" class="java.lang.String" itemvalue="RSpec.create gist test delete gist: joany_backend" />
+        <item index="2" class="java.lang.String" itemvalue="RSpec.create gist test get gist: joany_backend" />
+        <item index="3" class="java.lang.String" itemvalue="RSpec. test delete gist: joany_backend" />
+        <item index="4" class="java.lang.String" itemvalue="RSpec.create gist test create: joany_backend" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="642aab48-14d3-4658-b1cc-75703499cb5d" name="Default" comment="" />
+      <created>1523381544276</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523381544276</updated>
+      <workItem from="1523381546088" duration="5879000" />
+      <workItem from="1523393368554" duration="70469000" />
+      <workItem from="1524593563396" duration="21381000" />
+      <workItem from="1524688205213" duration="57094000" />
+      <workItem from="1525714625241" duration="1081000" />
+      <workItem from="1525717154151" duration="1069000" />
+      <workItem from="1525814711882" duration="16964000" />
+      <workItem from="1526425472082" duration="676000" />
+      <workItem from="1526585212016" duration="8679000" />
+      <workItem from="1526924504040" duration="5730000" />
+      <workItem from="1526947180215" duration="5015000" />
+      <workItem from="1527614427134" duration="2666000" />
+      <workItem from="1527788402133" duration="5748000" />
+      <workItem from="1530579877524" duration="1296000" />
+      <workItem from="1530814871538" duration="948000" />
+      <workItem from="1530815876896" duration="599000" />
+      <workItem from="1530816572514" duration="4552000" />
+      <workItem from="1530832904537" duration="3225000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="create_gist_test_create_gist__joany_backend - 2018.07.05 at 17h 08m 19s.xml">
+      <configuration name="create gist test create gist: joany_backend" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="create_gist_test_create_gist__joany_backend - 2018.07.05 at 17h 09m 27s.xml">
+      <configuration name="create gist test create gist: joany_backend" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="create_gist_test_create_gist__joany_backend - 2018.07.05 at 17h 10m 57s.xml">
+      <configuration name="create gist test create gist: joany_backend" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="create_gist_test_create_gist__joany_backend - 2018.07.05 at 17h 12m 16s.xml">
+      <configuration name="create gist test create gist: joany_backend" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="create_gist_test_create_gist__joany_backend - 2018.07.05 at 17h 12m 55s.xml">
+      <configuration name="create gist test create gist: joany_backend" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="create_gist_test_delete_gist__joany_backend - 2018.07.05 at 17h 10m 13s.xml">
+      <configuration name="create gist test delete gist: joany_backend" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="create_gist_test_delete_gist__joany_backend - 2018.07.05 at 17h 10m 47s.xml">
+      <configuration name="create gist test delete gist: joany_backend" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="create_gist_test_delete_gist__joany_backend - 2018.07.05 at 17h 11m 14s.xml">
+      <configuration name="create gist test delete gist: joany_backend" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="create_gist_test_delete_gist__joany_backend - 2018.07.05 at 17h 12m 04s.xml">
+      <configuration name="create gist test delete gist: joany_backend" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="create_gist_test_delete_gist__joany_backend - 2018.07.05 at 17h 12m 28s.xml">
+      <configuration name="create gist test delete gist: joany_backend" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="213071000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25702077" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3042453" sideWeight="0.5016092" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43836978" sideWeight="0.4983908" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39795917" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902583" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/specs/get_carriers_spec.rb" />
+    <entry file="file://$PROJECT_DIR$/specs/research_study_leads_spec.rb" />
+    <entry file="file://$PROJECT_DIR$/expected-data/health_plans_CA" />
+    <entry file="file://$PROJECT_DIR$/config/env.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="51" lean-forward="true" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specs/esign_spec.rb" />
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/query_research_client.rb" />
+    <entry file="file://$PROJECT_DIR$/specs/query_research_spec.rb" />
+    <entry file="file://$PROJECT_DIR$/specs/authorize_respondent_spec.rb" />
+    <entry file="file://$PROJECT_DIR$/specs/submit_research_study_spec.rb" />
+    <entry file="file://$PROJECT_DIR$/specs/get_carriers_spec.rb" />
+    <entry file="file://$PROJECT_DIR$/expected-data/health_plans_CA" />
+    <entry file="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/typhoeus-1.0.2/lib/typhoeus.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/generate_mac_signature.rb" />
+    <entry file="file://$PROJECT_DIR$/config/env.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="57" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="14" lean-forward="false" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.16.1/lib/bundler/definition.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3375">
+          <caret line="225" column="0" lean-forward="false" selection-start-line="225" selection-start-column="0" selection-end-line="225" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/query_research_client.rb" />
+    <entry file="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/typhoeus-1.0.2/lib/typhoeus.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.16.1/lib/bundler/spec_set.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1305">
+          <caret line="87" column="0" lean-forward="false" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/generate_mac_signature.rb" />
+    <entry file="file://$PROJECT_DIR$/config/env.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="74" lean-forward="false" selection-start-line="2" selection-start-column="74" selection-end-line="2" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/yml_load.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specs/query_research_spec.rb" />
+    <entry file="file://$PROJECT_DIR$/config/yml_load.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.16.1/lib/bundler/definition.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3375">
+          <caret line="225" column="0" lean-forward="false" selection-start-line="225" selection-start-column="0" selection-end-line="225" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs23/open_ssl.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7470">
+          <caret line="498" column="14" lean-forward="false" selection-start-line="498" selection-start-column="7" selection-end-line="498" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ffi-1.9.23/lib/ffi.rb" />
+    <entry file="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.16.1/lib/bundler/spec_set.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="84" column="32" lean-forward="false" selection-start-line="84" selection-start-column="32" selection-end-line="84" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/typhoeus-1.0.2/lib/typhoeus.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/expected-data/health_plans_CA" />
+    <entry file="file://$PROJECT_DIR$/specs/research_study_leads_spec.rb" />
+    <entry file="file://$PROJECT_DIR$/specs/authorize_respondent_spec.rb" />
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/generate_mac_signature.rb" />
+    <entry file="file://$PROJECT_DIR$/utils/generate_mac_signature_doc_reco.rb" />
+    <entry file="file://$PROJECT_DIR$/specs/query_research_spec.rb" />
+    <entry file="file://$PROJECT_DIR$/specs/submit_research_study_1_spec.rb" />
+    <entry file="file://$PROJECT_DIR$/client/research_study_lead_client.rb" />
+    <entry file="file://$PROJECT_DIR$/client/coccierge_rest_client.rb" />
+    <entry file="file://$PROJECT_DIR$/specs/submit_research_study_spec.rb" />
+    <entry file="file://$PROJECT_DIR$/client/doc_reco_research_client.rb" />
+    <entry file="file://$PROJECT_DIR$/specs/create_doctor_request_spec.rb" />
+    <entry file="file://$PROJECT_DIR$/specs/esign_spec.rb" />
+    <entry file="file://$PROJECT_DIR$/specs/get_carriers_spec.rb" />
+    <entry file="file://$PROJECT_DIR$/client/query_research_client.rb" />
+    <entry file="file://$PROJECT_DIR$/config/env.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/gist_client.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="58" column="50" lean-forward="false" selection-start-line="58" selection-start-column="50" selection-end-line="58" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specs/gist_create_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
